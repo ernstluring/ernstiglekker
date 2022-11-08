@@ -120,6 +120,12 @@ img {
   border-bottom: 1px solid #DDDDDD;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   
+    background-image: url(/assets/img/pattern.jpg);
+    background-attachment: fixed;
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+  
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
@@ -309,7 +315,7 @@ img {
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
-  width: 3.125rem;
+  width: 6.7rem;
   bottom: -1.5rem;
   transition: opacity 0.5s ease-in-out;
   -webkit-transition: opacity 0.5s ease-in-out;
@@ -328,9 +334,6 @@ img {
   margin-left: -50%;
   
     border-radius: 50%;
-    box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
-    -webkit-box-shadow: 0 0 0.3125rem rgba(0, 0, 0, .8);
-    -moz-box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
   
 }
 .navbar-custom .avatar-container .avatar-img {
@@ -347,17 +350,12 @@ img {
 
 @media (min-width: 1200px) {
   .navbar-custom.top-nav-regular .avatar-container {
-    width: 6.25rem;
+    width: 11rem;
     bottom: -1.9375rem;
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
     width: 100%;
-    
-    box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
-    -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
-    -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
-    
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img {
