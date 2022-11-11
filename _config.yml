@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Ernstig Lekker - Al mijn ernstig lekkere recepten
+title: Ernstig Lekker - Lekkere recepten van familie, vrienden en mijn reizen
 
 # Your name to show in the footer
 author: Ernst Luring
@@ -125,9 +125,12 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#61A9CF"
+# navbar-col: "#D4B483"
+
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
+
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
@@ -140,7 +143,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/pattern.jpg"
+# navbar-img: "/assets/img/pattern.jpg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 

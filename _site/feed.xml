@@ -2,12 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <title>Ernstig Lekker - Al mijn ernstig lekkere recepten</title>
+    <title>Ernstig Lekker - Lekkere recepten van familie, vrienden en mijn reizen</title>
     
     
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+      <item>
+        <title>Beppe snert</title>
+        <description>
+          Snert zoals beppe het maakt - 
+          Een simpele en vooral lekkere gepureerde erwtensoep volgens het geheime recept van Beppe. Ingredienten Grote ui Prei Wortel Spliterwten, gewassen Groentebouillon Water, tot alles net onder staat Bereidingswijze Snij en was alle groenten Spliterwten goed afspoelen en haal lelijke velletjes eruit Alles in een pan doen (inclusief bouillon) en vullen...
+        </description>
+        <pubDate>Mon, 07 Nov 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022-11-07-beppe-snert/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-11-07-beppe-snert/</guid>
+      </item>
     
       <item>
         <title>Turkse rode linzensoep</title>
@@ -21,30 +32,10 @@
       </item>
     
       <item>
-        <title>Beppe snert</title>
-        <description>
-          Snert zoals beppe het maakt - 
-          Een simpele en vooral lekkere gepureerde erwtensoep. Ingredienten Grote ui Prei Wortel Spliterwten, gewassen Groentebouillon Water, tot alles net onder staat Bereidingswijze Snij en was alle groenten Spliterwten goed afspoelen en haal lelijke velletjes eruit Alles in een pan doen (inclusief bouillon) en vullen met water tot alles net onder...
-        </description>
-        <pubDate>Sun, 06 Nov 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022-11-06-beppe-snert/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022-11-06-beppe-snert/</guid>
-      </item>
-    
-      <item>
         <title>Basis tomatensaus</title>
         <description>
-          Goede tomatensaus te gebruiken als basis - 
-          Ingredienten soep
-
--
-
-Bereidingswijze
-
-1.
-
-
-
+          Basis tomatensaus op italiaanse manier - 
+          Een simpele maar erg lekkere tomatensaus die je kunt gebruiken als basis voor andere recepten (of gewoon over je pasta heen kunt gooien!). Gebruik zo goed mogelijk kwaliteit producten, dit maakt echt het verschil. Ingrediënten 700 gr goede passata (mutti) Tomatenpuree Teentje knoflook, gepeld (Optioneel) Basilicum blaadjes ± 300 ml...
         </description>
         <pubDate>Sun, 06 Nov 2022 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2022-11-06-basis-tomatensaus/</link>

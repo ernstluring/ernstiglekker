@@ -116,15 +116,9 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: #EAEAEA;
+  background-color: #61A9CF;
   border-bottom: 1px solid #DDDDDD;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  
-    background-image: url(/assets/img/pattern.jpg);
-    background-attachment: fixed;
-    /* background-size: cover; */
-    /* background-repeat: no-repeat; */
-    /* background-position: center; */
   
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
@@ -256,7 +250,7 @@ img {
 
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   padding: 0.625rem;
-  background-color: #EAEAEA;
+  background-color: #61A9CF;
   text-decoration: none !important;
   font-weight: normal;
   color: #404040;

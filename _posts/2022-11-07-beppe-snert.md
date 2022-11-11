@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/beppe-snert.png
 tags: [soep]
 ---
 
-Een simpele en vooral lekkere gepureerde erwtensoep.
+Een simpele en vooral lekkere gepureerde erwtensoep volgens het *geheime* recept van Beppe.
 
 ### Ingredienten
 
