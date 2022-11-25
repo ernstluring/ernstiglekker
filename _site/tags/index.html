@@ -47,7 +47,7 @@
   <meta property="og:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag..." />
 
   
-  <meta property="og:image" content="http://localhost:4000/assets/img/logo.jpg" />
+  <meta property="og:image" content="http://localhost:4000/assets/img/logo2.jpg" />
    
   <meta property="og:type" content="website" />
   <meta
@@ -71,7 +71,7 @@
   <meta property="twitter:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag..." />
 
   
-  <meta name="twitter:image" content="http://localhost:4000/assets/img/logo.jpg" />
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/logo2.jpg" />
    
   
 </head>
@@ -113,7 +113,7 @@
         <img
           alt="Navigation bar avatar"
           class="avatar-img"
-          src="/assets/img/logo.jpg"
+          src="/assets/img/logo2.jpg"
         />
       </a>
     </div>
@@ -134,24 +134,31 @@
     var searchjson = '[ \
        \
         { \
+          "title"    : "Basis tomatensaus", \
+          "category" : "saus", \
+          "url"      : "/basis-tomatensaus", \
+          "date"     : "November 25, 2022" \
+        }, \
+       \
+        { \
           "title"    : "Beppe snert", \
           "category" : "soep", \
-          "url"      : "/2022-11-07-beppe-snert/", \
-          "date"     : "November  7, 2022" \
+          "url"      : "/beppe-snert", \
+          "date"     : "November 25, 2022" \
         }, \
        \
         { \
           "title"    : "Turkse rode linzensoep", \
           "category" : "soep", \
-          "url"      : "/2022-11-06-rode-linzensoep/", \
-          "date"     : "November  6, 2022" \
+          "url"      : "/rode-linzensoep", \
+          "date"     : "November 25, 2022" \
         }, \
        \
         { \
-          "title"    : "Basis tomatensaus", \
-          "category" : "saus", \
-          "url"      : "/2022-11-06-basis-tomatensaus/", \
-          "date"     : "November  6, 2022" \
+          "title"    : "Valentina&#39;s Empanadas", \
+          "category" : "vega", \
+          "url"      : "/valentinas-empanadas", \
+          "date"     : "November 25, 2022" \
         }, \
        \
        \
@@ -217,30 +224,7 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      <a href="#saus" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;saus&nbsp;(1)</a><a href="#soep" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;soep&nbsp;(2)</a><div id="full-tags-list"><h2 id="saus" class="linked-section">
-        <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;saus&nbsp;(1)
-    </h2>
-    <div class="post-list"><div class="tag-entry">
-                <a href="/2022-11-06-basis-tomatensaus/">Basis tomatensaus</a>
-                <div class="entry-date">
-                    <time datetime="2022-11-06T00:00:00+01:00">November 6, 2022</time>
-                </div>
-            </div></div><h2 id="soep" class="linked-section">
-        <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;soep&nbsp;(2)
-    </h2>
-    <div class="post-list"><div class="tag-entry">
-                <a href="/2022-11-07-beppe-snert/">Beppe snert</a>
-                <div class="entry-date">
-                    <time datetime="2022-11-07T00:00:00+01:00">November 7, 2022</time>
-                </div>
-            </div><div class="tag-entry">
-                <a href="/2022-11-06-rode-linzensoep/">Turkse rode linzensoep</a>
-                <div class="entry-date">
-                    <time datetime="2022-11-06T00:00:00+01:00">November 6, 2022</time>
-                </div>
-            </div></div></div>
+      <div id="full-tags-list"></div>
 
 
       

@@ -2,7 +2,7 @@
 layout: post
 title: Basis tomatensaus
 subtitle: Basis tomatensaus op italiaanse manier
-thumbnail-img: /assets/img/basis-tomatensaus.jpg
+thumbnail-img: /assets/img/basis-tomaten-saus.jpg
 tags: [saus]
 ---
 

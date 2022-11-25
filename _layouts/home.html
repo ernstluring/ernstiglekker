@@ -2,11 +2,11 @@
 layout: page
 ---
 
-{{ content }} {% assign posts = paginator.posts | default: site.posts %}
+{{ content }}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-  {% for post in posts %}
+  {% for post in site.recipes %}
   <li class="post-preview">
     <article>
       {%- capture thumbnail -%} {% if post.thumbnail-img %} {{
@@ -29,12 +29,6 @@ layout: page
         <h3 class="post-subtitle">{{ post.subtitle | strip_html }}</h3>
         {% endif %}
       </a>
-
-      <p class="post-meta">
-        {% if post.showDate %} {% assign date_format = site.date_format |
-        default: "%B %-d, %Y" %} Posted on {{ post.date | date: date_format }}
-        {% endif %}
-      </p>
 
       {% if thumbnail != "" %}
       <div class="post-image post-image-small">
