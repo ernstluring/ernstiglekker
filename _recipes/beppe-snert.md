@@ -3,7 +3,7 @@ layout: post
 title: Beppe snert
 subtitle: Snert zoals beppe het maakt
 thumbnail-img: /assets/img/beppe-snert.png
-tags: [soep]
+tags: []
 ---
 
 Een simpele en vooral lekkere gepureerde erwtensoep volgens het *geheime* recept van Beppe.

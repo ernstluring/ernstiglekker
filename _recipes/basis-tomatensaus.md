@@ -3,7 +3,7 @@ layout: post
 title: Basis tomatensaus
 subtitle: Basis tomatensaus op italiaanse manier
 thumbnail-img: /assets/img/basis-tomaten-saus.jpg
-tags: [saus]
+tags: []
 ---
 
 Een simpele maar erg lekkere tomatensaus die je kunt gebruiken als basis voor andere recepten (of gewoon over je pasta heen kunt gooien!). Gebruik zo goed mogelijk kwaliteit producten, dit maakt echt het verschil.

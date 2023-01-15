@@ -3,7 +3,7 @@ layout: post
 title: Turkse rode linzensoep
 subtitle: Super lekkere comfort soep
 thumbnail-img: /assets/img/turkse-rode-linzen-soep.png
-tags: [soep]
+tags: []
 ---
 
 Dit recept kwam ik tegen in mijn plaatselijke turkse supermarkt. Een echte comfort soep, super lekker en ook nog eens gezond.

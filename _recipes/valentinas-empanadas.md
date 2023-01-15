@@ -3,9 +3,10 @@ layout: post
 title: Valentina's Empanadas
 subtitle: Echte argentijnse empanadas van Valentina
 thumbnail-img: /assets/img/empanadas-finished.JPG
-tags: [vega]
+tags: []
 ---
 
+Echte argentijnse empanadas met vegatarisch soja gehakt.
 Thanks Valentina voor dit super lekkere recept!
 
 ### Ingrediënten soja gehakt
