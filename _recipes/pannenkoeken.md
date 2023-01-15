@@ -22,4 +22,4 @@ tags: []
 2. Smelt een klont boter in een pan en gebruik dit om de pan in te vetten (na elke gebakken pannenkoek opnieuw invetten)
 3. Beslag klaar? Bakken maar! 
 
-![Pannenkoeken met fruit](/assets/img/pannekoeken2.png)
+![Pannenkoeken met fruit](/assets/img/pannenkoeken2.png)
