@@ -1,0 +1,8 @@
+{% if site.panelbear %}
+<!-- Panelbear -->
+<script async src="https://cdn.panelbear.com/analytics.js?site={{ site.panelbear }}"></script>
+<script>
+  window.panelbear = window.panelbear || function () { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
+  panelbear('config', { site: '{{ site.panelbear }}' });
+</script>
+{% endif %}
